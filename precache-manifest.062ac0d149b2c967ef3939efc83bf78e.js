@@ -24,7 +24,7 @@ self.__precacheManifest = [
     "url": "/counter-app/static/js/runtime~main.44d1cc44.js"
   },
   {
-    "revision": "6bccecd249c85571bb9bc526506be15d",
+    "revision": "a52bce090fb44684e42cb45abdd17c24",
     "url": "/counter-app/index.html"
   }
 ];
